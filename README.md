@@ -1,0 +1,2 @@
+# goexecption
+go panic 
